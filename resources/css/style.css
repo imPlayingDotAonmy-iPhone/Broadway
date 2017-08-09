@@ -1,0 +1,44 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+a {
+  font-size: 18px;
+}
+
+.background {
+  background-image: url("./images/theflat-ironbuilding.png")
+}
+
+.copyright {
+  background-color: dimgray;
+  text-align: left;
+}
+
+span {
+  font-size: 11px;
+}
+
+a, .background, span {
+  color: white;
+  font-weight: bold;
+}
